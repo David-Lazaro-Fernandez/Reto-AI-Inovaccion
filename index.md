@@ -28,7 +28,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">¿Por donde empezar?</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">conceptos</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">mi camino</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">david lázaro</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#conoceme">david lázaro</a></li>
                 </ul>
             </div>
         </div>
@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="col-lg-8 mx-auto">
-                <p class="text-faded mb-5" style="font-family: 'Open Sans', sans-serif;color: rgba(233,227,227,0.7);">Definitivamente una increíble experiencia que le recomendaría a todos sin importar su área de trabajo.</p><a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="#services">Conoce mi travesia</a></div>
+                <p class="text-faded mb-5" style="font-family: 'Open Sans', sans-serif;color: rgba(255,255,255,0.7);font-size: 23px;">Definitivamente una increíble experiencia que le recomendaría a todos sin importar su área de trabajo.</p><a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="#services">Conoce mi travesia</a></div>
         </div>
     </header>
     <section id="about" class="bg-primary">
@@ -51,7 +51,7 @@
                 <div class="col offset-lg-8 mx-auto text-center">
                     <h2 class="text-white section-heading">¿Por donde empezar?</h2>
                     <hr class="light my-4">
-                    <p class="text-faded mb-4">Un día común como todos los demás estaba navegando por las redes sociales y me encuentro con una publicación de mi facultad acerca de un programa de Microsoft llamado Innavacción Virtual. Entre por curiosidad y hasta el día de hoy
+                    <p class="text-faded mb-4" style="font-family: 'Open Sans', sans-serif;">Un día común como todos los demás estaba navegando por las redes sociales y me encuentro con una publicación de mi facultad acerca de un programa de Microsoft llamado Innavacción Virtual. Entre por curiosidad y hasta el día de hoy
                         ha sido una de las mejores experiencias que he tenido en mi vida.<br></p>
                 </div>
             </div>
@@ -71,97 +71,97 @@
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fa fa-cloud fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Cloud</h3>
-                        <p class="text-muted mb-0">Imagínalo como un ecosistema de servidores que te da las herramientas que necesites realizar cualquier tipo de tarea que desees hacer. Existen múltiples servicios de nube como Azure, AWS y GCloud</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Imagínalo como un ecosistema de servidores que te da las herramientas que necesites realizar cualquier tipo de tarea que desees hacer. Existen múltiples servicios de nube como Azure, AWS y GCloud</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fa fa-github-square fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">GitHub</h3>
-                        <p class="text-muted mb-0">Es una Red social que utiliza los principios del sistema de control de versiones Git para que puedas colaborar con personas de todo el mundo en múltiples proyectos<br><br></p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es una Red social que utiliza los principios del sistema de control de versiones Git para que puedas colaborar con personas de todo el mundo en múltiples proyectos<br><br></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-robot fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Bot Services</h3>
-                        <p class="text-muted mb-0">Son plantillas que nos proporciona Azure con las cuales podemos construir, implementar y administrar bots</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Son plantillas que nos proporciona Azure con las cuales podemos construir, implementar y administrar bots</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fab fa-hubspot fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Artificial Intelligence</h3>
-                        <p class="text-muted mb-0">Es una rama científica que se encarga de crear mecanismos y programas que puedan mostrar comportamientos inteligentes.</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es una rama científica que se encarga de crear mecanismos y programas que puedan mostrar comportamientos inteligentes.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-laptop-code fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Virtual Machine</h3>
-                        <p class="text-muted mb-0">Son aplicaciones que virtualizan hardware y software. Las usamos cuando necesitamos el control completo sobre un entorno.</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Son aplicaciones que virtualizan hardware y software. Las usamos cuando necesitamos el control completo sobre un entorno.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fa fa-server fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Cloud Storage</h3>
-                        <p class="text-muted mb-0">Imaginalo como un ecosistema de servidores que te da las herramientas para que desees realizar cualquier tipo de tarea que necesites.&nbsp;</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es un modelo con el cual puedes almacenar tus datos en Internet a través de un proveedor de servicios en la nube. ¡Ya no tienes la necesidad de comprar infraestructura!</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fa fa-search fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Azure Search</h3>
-                        <p class="text-muted mb-0">Utiliza A.I para extraer información valiosa de muchos datos. Como patrones, sentimientos, relaciones. etc. </p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Utiliza A.I para extraer información valiosa de muchos datos. Como patrones, sentimientos, relaciones. etc. </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="far fa-window-restore fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Serverless Computing</h3>
-                        <p class="text-muted mb-0">Básicamente no ten tienes que encargar de administrar el servidor o la infraestructura que utilizaras, ya que de eso se encarga Azure.</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Básicamente no ten tienes que encargar de administrar el servidor o la infraestructura que utilizaras, ya que de eso se encarga Azure.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fa fa-flask fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Azure Cognitive Services</h3>
-                        <p class="text-muted mb-0">Es una familia de servicios de A.I y API cognitivas que nos permiten crear aplicaciones inteligentes.</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es una familia de servicios de A.I y API cognitivas que nos permiten crear aplicaciones inteligentes.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="far fa-eye fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-delay="200" data-aos-once="true"></i>
                         <h3 class="mb-3">Vision</h3>
-                        <p class="text-muted mb-0">&nbsp;Es un servicio cognitivo que nos permite analizar y identificar con presición el contenido de las imágenes y los vídeos.&nbsp;<br></p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">&nbsp;Es un servicio cognitivo que nos permite analizar y identificar con presición el contenido de las imágenes y los vídeos.&nbsp;<br></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fab fa-teamspeak fa-4x text-primary mb-3 sr-icons" data-aos="zoom-in" data-aos-duration="200" data-aos-delay="400" data-aos-once="true"></i>
                         <h3 class="mb-3">Speak</h3>
-                        <p class="text-muted mb-0">Es un servicio cognitivo que mediante el uso de AI te permite convertir voz a texto, producir una voz con sonido natural en base a un texto<br><br></p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es un servicio cognitivo que mediante el uso de AI te permite convertir voz a texto, producir una voz con sonido natural en base a un texto<br><br></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-language fa-4x text-primary mb-3 sr-icons" data-aos="fade" data-aos-duration="200" data-aos-delay="600" data-aos-once="true"></i>
                         <h3 class="mb-3">Language</h3>
-                        <p class="text-muted mb-0">Es un&nbsp; servicio cognitivo que nos permiten comprender el significado del&nbsp; un texto no estructurado o reconocer la intención del hablante.<br><br><br><br></p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es un&nbsp; servicio cognitivo que nos permiten comprender el significado del&nbsp; un texto no estructurado o reconocer la intención del hablante.<br><br><br><br></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-brain fa-4x text-primary mb-3 sr-icons" data-aos="fade" data-aos-duration="200" data-aos-delay="600" data-aos-once="true"></i>
                         <h3 class="mb-3">Knowledge</h3>
-                        <p class="text-muted mb-0">Son herramientas del SDK que nos permiten crear recursos de conocimiento para integrarlos a aplicaciones o servicios</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Son herramientas del SDK que nos permiten crear recursos de conocimiento para integrarlos a aplicaciones o servicios</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-archive fa-4x text-primary mb-3 sr-icons" data-aos="fade" data-aos-duration="200" data-aos-delay="600" data-aos-once="true"></i>
                         <h3 class="mb-3">Containers</h3>
-                        <p class="text-muted mb-0">Son aplicaciones que virtualizan un sistema operativo, a diferencia de las V.M estas no simulan hardware y pueden llegar a ser mejores que las V.M en algunos casos</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Son aplicaciones que virtualizan un sistema operativo, a diferencia de las V.M estas no simulan hardware y pueden llegar a ser mejores que las V.M en algunos casos</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-traffic-light fa-4x text-primary mb-3 sr-icons" data-aos="fade" data-aos-duration="200" data-aos-delay="600" data-aos-once="true"></i>
                         <h3 class="mb-3">Disponibility</h3>
-                        <p class="text-muted mb-0">Es el tiempo que esta disponible un servicio sin ser interrumpido.</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es el tiempo que esta disponible un servicio sin ser interrumpido.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center">
                     <div class="mx-auto service-box mt-5"><i class="fas fa-file-signature fa-4x text-primary mb-3 sr-icons" data-aos="fade" data-aos-duration="200" data-aos-delay="600" data-aos-once="true"></i>
                         <h3 class="mb-3">Resistance</h3>
-                        <p class="text-muted mb-0">Es la capacidad de un sistema de permanecer disponible en ocasiones irregulares como:&nbsp;<br>-Desastres naturales<br>-Altos niveles de trafico<br>-Ataques al sistema</p>
+                        <p class="text-muted mb-0" style="font-family: 'Open Sans', sans-serif;">Es la capacidad de un sistema de permanecer disponible en ocasiones irregulares como:&nbsp;<br>-Desastres naturales<br>-Altos niveles de trafico<br>-Ataques al sistema</p>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
             <!-- Start: Intro -->
             <div class="intro">
                 <h2 class="text-center">Grandes personas que admiro 😄</h2>
-                <p class="text-center">En mi camino durante este programa he llegado a admirar a varias personas que pude conocer en el programa.</p>
+                <p class="text-center" style="font-family: 'Open Sans', sans-serif;">En mi camino durante este programa he llegado a admirar a varias personas que pude conocer en el programa.</p>
             </div>
             <!-- End: Intro -->
             <!-- Start: People -->
@@ -222,7 +222,7 @@
     </div>
     <!-- End: Team Clean -->
     <!-- Start: Footer Dark -->
-    <div class="footer-dark">
+    <div id="conoceme" class="footer-dark">
         <footer>
             <div class="container">
                 <div class="row">
